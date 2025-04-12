@@ -153,10 +153,10 @@ The backend exposes a RESTful API for accessing user data and interacting with S
 This project was developed during the **Texas Instruments Wise Hackathon 2025**.
 
 ### Contributors
-- **Anushka Singh** – Project Lead, Backend Development, and UI Design
-- **Mansa Mahendru** – Frontend Development and API Integration
-- **Archita Das** – Data Visualization and Dashboard Development
-- **Navneet Kaur** – Chatbot Development and Automation
+- **Anushka Singh**
+- **Mansa Mahendru** 
+- **Archita Das** 
+- **Navneet Kaur**
 
 We would like to extend our gratitude to Texas Instruments for organizing the hackathon and providing us with the opportunity to bring this project to life.
 
